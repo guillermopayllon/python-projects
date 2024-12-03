@@ -3,6 +3,7 @@
 ### Author: Guillermo Ayllon                                                               ###
 ### Date: 03/12/2024                                                                       ###
 ### Vers: 1.0                                                                              ###
+### Level: Basic                                                                           ###
 ### Description: Generador de contraseñas básico en Python.                                ###
 ##############################################################################################
 
