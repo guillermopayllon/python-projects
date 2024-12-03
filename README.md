@@ -16,6 +16,11 @@
 
 ## Intermedios
 
+<ol>
+    <li><a href = "https://github.com/guillermopayllon/python-projects/blob/main/middle/PassGeneratorMiddle.py">Generador de contraseñas (Middle)</a></li>
+    <p>Versión 2 del generador de contraseñas básico, en esta versión hemos incorporado un menú desde el que podemos acceder a diferentes opciones a la hora de genera la contraseñas.</p>
+</ol>
+
 
 <hr>
 
