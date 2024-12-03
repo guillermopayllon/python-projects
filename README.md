@@ -8,7 +8,8 @@
 <p>Si estás empenzando con Python, aquí encontraras diferentes proyectos que te pueden ayudar en este lenguaje de programación.</p>
 
 <ol>
-    <li><a href = "#">Generador de contraseñas</a></li>
+    <li><a href = "https://github.com/guillermopayllon/python-projects/blob/main/basic/PassGenerator.py">Generador de contraseñas básico</a></li>
+    <p>En este proyecto crearemos un generador de contraseñas aleatorias en su forma más básicas, este programa sera mejorado en versiones intermedias, y avazadas.
 </ol>
 
 <hr>
