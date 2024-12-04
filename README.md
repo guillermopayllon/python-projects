@@ -27,6 +27,8 @@
 <hr>
 
 ## Avanzados
+<p>En está sección además de proyectos diferentes, mejoraremos los proyectos que se encuentran en la sección de básicos e intermedios.</p>
+<p>En muchos de los proyectos añadiremos una interfaz gráifica usando tkinter para añadir esta funcionalidad al proyecto.</p>
 
 
 <hr>
