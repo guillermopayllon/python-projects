@@ -9,7 +9,9 @@
 
 <ol>
     <li><a href = "https://github.com/guillermopayllon/python-projects/blob/main/basic/PassGenerator.py">Generador de contraseñas básico</a></li>
-    <p>En este proyecto crearemos un generador de contraseñas aleatorias en su forma más básicas, este programa sera mejorado en versiones intermedias, y avazadas.
+    <p>En este proyecto crearemos un generador de contraseñas aleatorias en su forma más básicas, este programa sera mejorado en versiones intermedias, y avazadas.</p>
+    <li><a href = "https://github.com/guillermopayllon/python-projects/blob/main/basic/PortScanner.py">Escáner básico de puertos</a></li>
+    <p>En este proyecto crearemos un escáner muy básico que nos permitirá ver que puertos están abiertos y cuáles están cerrados, esta es una versión básica, que mejoraremos en la versión intermedia.</p>
 </ol>
 
 <hr>
