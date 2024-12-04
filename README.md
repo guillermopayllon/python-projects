@@ -17,6 +17,8 @@
 <hr>
 
 ## Intermedios
+<p>Vamos a mejorar los proyectos básicos añadiendo nuevas funcionalidades.</p>
+<hr>
 
 <ol>
     <li><a href = "https://github.com/guillermopayllon/python-projects/blob/main/middle/PassGeneratorMiddle.py">Generador de contraseñas (Middle)</a></li>
