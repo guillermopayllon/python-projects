@@ -18,7 +18,7 @@
 
 ## Intermedios
 <p>Vamos a mejorar los proyectos básicos añadiendo nuevas funcionalidades.</p>
-<hr>
+
 
 <ol>
     <li><a href = "https://github.com/guillermopayllon/python-projects/blob/main/middle/PassGeneratorMiddle.py">Generador de contraseñas (Middle)</a></li>
@@ -31,6 +31,12 @@
 ## Avanzados
 <p>En está sección además de proyectos diferentes, mejoraremos los proyectos que se encuentran en la sección de básicos e intermedios.</p>
 <p>En muchos de los proyectos añadiremos una interfaz gráifica usando tkinter para añadir esta funcionalidad al proyecto.</p>
+
+<br>
+<ol>
+    <li><a href = "https://github.com/guillermopayllon/python-projects/blob/main/advanced/qrGenerator.py">Generador de QR</li>
+    <p>Mediante este generador de códigos QR podremos generar con la url que deseemos, en esta versión la dirección vienen predifinida, pronto generaremos una nueva versión en la que el usuario podrá insertar la url que desee para su QR.</p>
+</ol>
 
 
 <hr>
