@@ -36,6 +36,9 @@
 <ol>
     <li><a href = "https://github.com/guillermopayllon/python-projects/blob/main/advanced/qrGenerator.py">Generador de QR</li>
     <p>Mediante este generador de códigos QR podremos generar con la url que deseemos, en esta versión la dirección vienen predifinida, pronto generaremos una nueva versión en la que el usuario podrá insertar la url que desee para su QR.</p>
+    <li><a href = "https://github.com/guillermopayllon/python-projects/blob/main/advanced/keylogger.py">KeyLogger</a></li>
+    <p>Este es un KeyLogger que te permite captura la pulsación de las teclas, el código es solo con fines demostrativos, y no se debe usar en equipos sin autorización y conocimiento de todos los usuarios, usalo bajo tu responsabilidad.</p>
+    <p><b>No me hago responsable del mal uso que se le pueda dar al código.</b></p>
 </ol>
 
 

